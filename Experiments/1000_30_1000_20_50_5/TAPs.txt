@@ -1,3 +1,0 @@
-1 1 1 1 1 , Epoch:0, Support: 780
-8 8 8 , Epoch:2, Support: 1206
-8 8 8 8 , Epoch:1, Support: 504

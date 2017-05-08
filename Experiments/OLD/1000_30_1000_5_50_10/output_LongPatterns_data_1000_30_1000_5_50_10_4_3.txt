@@ -1,8 +1,0 @@
-5 5 5, Epoch:5, Support: 108
-8 8 8, Epoch:7, Support: 38
-2 2 2 2 2 2 2, Epoch:8, Support: 148
-10 10 10, Epoch:9, Support: 132
-2 2 2 2 2 2 2 2 2 2, Epoch:9, Support: 69
-2 2 2 2 2 2, Epoch:9, Support: 240
-1 1 1 1 1 1 1 1 1, Epoch:9, Support: 18
-5 5 5 5, Epoch:9, Support: 42
