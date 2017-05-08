@@ -1,0 +1,111 @@
+2 2 3 , Epoch:7, Support: 16
+5 2 2 2 2 2 , Epoch:3, Support: 6
+5 2 2 2 2 5 , Epoch:3, Support: 6
+5 2 2 2 5 2 , Epoch:3, Support: 6
+5 2 2 2 5 5 , Epoch:3, Support: 6
+5 2 2 5 2 2 , Epoch:3, Support: 6
+5 2 2 5 5 5 , Epoch:3, Support: 6
+5 2 5 2 2 2 , Epoch:3, Support: 6
+5 2 5 2 2 5 , Epoch:3, Support: 6
+5 2 5 2 5 2 , Epoch:3, Support: 6
+5 2 5 5 5 5 , Epoch:3, Support: 6
+5 5 2 2 2 2 , Epoch:3, Support: 6
+5 5 2 2 2 5 , Epoch:3, Support: 6
+5 5 2 2 5 2 , Epoch:3, Support: 6
+5 5 2 2 5 5 , Epoch:3, Support: 6
+5 5 2 5 2 2 , Epoch:3, Support: 6
+5 5 2 5 2 5 , Epoch:3, Support: 6
+5 5 2 5 5 2 , Epoch:3, Support: 6
+5 5 2 5 5 5 , Epoch:3, Support: 6
+5 5 5 2 2 2 , Epoch:3, Support: 6
+5 5 5 2 2 5 , Epoch:3, Support: 6
+5 5 5 2 5 2 , Epoch:3, Support: 6
+5 5 5 2 5 5 , Epoch:3, Support: 6
+5 5 5 5 2 2 , Epoch:3, Support: 6
+5 5 5 5 2 5 , Epoch:3, Support: 6
+5 5 5 5 5 2 , Epoch:3, Support: 6
+5 5 5 5 5 5 3 , Epoch:3, Support: 12
+5 5 9 , Epoch:7, Support: 8
+5 6 6 6 , Epoch:6, Support: 25
+5 6 6 6 6 , Epoch:5, Support: 25
+5 8 8 8 8 , Epoch:5, Support: 12
+5 8 8 8 8 8 , Epoch:4, Support: 12
+5 9 9 , Epoch:7, Support: 8
+6 5 5 6 , Epoch:6, Support: 25
+6 5 6 6 , Epoch:6, Support: 25
+6 6 5 6 , Epoch:6, Support: 25
+6 6 6 6 , Epoch:6, Support: 1672
+6 6 9 , Epoch:7, Support: 21
+6 9 6 , Epoch:7, Support: 21
+6 9 9 , Epoch:7, Support: 21
+6 9 9 9 , Epoch:6, Support: 6
+7 7 7 7 2 2 2 2 2 , Epoch:0, Support: 5
+7 7 7 7 2 7 2 2 2 , Epoch:0, Support: 5
+7 7 7 7 7 2 2 2 2 , Epoch:0, Support: 5
+7 7 7 7 7 7 2 2 2 , Epoch:0, Support: 5
+8 5 5 5 8 , Epoch:5, Support: 12
+8 5 5 8 8 , Epoch:5, Support: 12
+8 5 8 5 8 , Epoch:5, Support: 12
+8 5 8 8 8 , Epoch:5, Support: 12
+8 8 5 5 8 , Epoch:5, Support: 12
+8 8 5 8 8 , Epoch:5, Support: 12
+8 8 8 5 8 , Epoch:5, Support: 12
+8 8 8 8 3 , Epoch:5, Support: 18
+8 8 8 8 8 , Epoch:5, Support: 2720
+9 6 6 , Epoch:7, Support: 6
+9 6 9 , Epoch:7, Support: 6
+9 7 7 7 7 , Epoch:1, Support: 12
+9 7 9 7 7 , Epoch:1, Support: 12
+9 9 3 , Epoch:7, Support: 24
+9 9 5 5 5 5 5 5 , Epoch:1, Support: 11
+9 9 6 , Epoch:7, Support: 6
+9 9 7 7 7 , Epoch:1, Support: 12
+9 9 9 , Epoch:7, Support: 1420
+9 9 9 5 5 5 5 5 , Epoch:1, Support: 11
+9 9 9 7 7 , Epoch:1, Support: 12
+10 5 5 5 5 5 5 10 , Epoch:2, Support: 10
+10 5 5 5 5 5 10 10 , Epoch:2, Support: 10
+10 5 5 5 5 10 10 10 , Epoch:2, Support: 10
+10 5 5 5 10 10 10 10 , Epoch:2, Support: 10
+10 5 5 10 5 5 5 10 , Epoch:2, Support: 10
+10 5 5 10 10 10 10 10 , Epoch:2, Support: 10
+10 5 10 5 5 5 5 10 , Epoch:2, Support: 10
+10 5 10 5 5 5 10 10 , Epoch:2, Support: 10
+10 5 10 5 5 10 5 10 , Epoch:2, Support: 10
+10 5 10 5 5 10 10 10 , Epoch:2, Support: 10
+10 5 10 5 10 5 5 10 , Epoch:2, Support: 10
+10 5 10 10 10 10 10 10 , Epoch:2, Support: 10
+10 10 5 5 5 5 5 10 , Epoch:2, Support: 10
+10 10 5 5 5 5 10 10 , Epoch:2, Support: 10
+10 10 5 5 5 10 5 10 , Epoch:2, Support: 10
+10 10 5 5 5 10 10 10 , Epoch:2, Support: 10
+10 10 5 5 10 5 5 10 , Epoch:2, Support: 10
+10 10 5 5 10 5 10 10 , Epoch:2, Support: 10
+10 10 5 5 10 10 10 10 , Epoch:2, Support: 10
+10 10 5 10 5 5 5 10 , Epoch:2, Support: 10
+10 10 5 10 5 5 10 10 , Epoch:2, Support: 10
+10 10 5 10 5 10 5 10 , Epoch:2, Support: 10
+10 10 5 10 5 10 10 10 , Epoch:2, Support: 10
+10 10 5 10 10 5 5 10 , Epoch:2, Support: 10
+10 10 5 10 10 5 10 10 , Epoch:2, Support: 10
+10 10 5 10 10 10 10 10 , Epoch:2, Support: 10
+10 10 10 5 5 5 5 10 , Epoch:2, Support: 10
+10 10 10 5 5 5 10 10 , Epoch:2, Support: 10
+10 10 10 5 5 10 5 10 , Epoch:2, Support: 10
+10 10 10 5 5 10 10 10 , Epoch:2, Support: 10
+10 10 10 5 10 5 5 10 , Epoch:2, Support: 10
+10 10 10 5 10 5 10 10 , Epoch:2, Support: 10
+10 10 10 5 10 10 5 10 , Epoch:2, Support: 10
+10 10 10 5 10 10 10 10 , Epoch:2, Support: 10
+10 10 10 10 5 5 5 10 , Epoch:2, Support: 10
+10 10 10 10 5 5 10 10 , Epoch:2, Support: 10
+10 10 10 10 5 10 5 10 , Epoch:2, Support: 10
+10 10 10 10 5 10 10 10 , Epoch:2, Support: 10
+10 10 10 10 10 5 5 10 , Epoch:2, Support: 10
+10 10 10 10 10 5 10 10 , Epoch:2, Support: 10
+10 10 10 10 10 10 5 10 , Epoch:2, Support: 10
+10 10 10 10 10 10 9 9 , Epoch:2, Support: 11
+10 10 10 10 10 10 9 10 , Epoch:2, Support: 11
+10 10 10 10 10 10 10 3 , Epoch:2, Support: 18
+10 10 10 10 10 10 10 9 , Epoch:2, Support: 11
+10 10 10 10 10 10 10 10 , Epoch:2, Support: 1500

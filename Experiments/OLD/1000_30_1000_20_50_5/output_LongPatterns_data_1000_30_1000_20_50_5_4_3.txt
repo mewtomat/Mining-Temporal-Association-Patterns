@@ -1,0 +1,3 @@
+10 10 10 10 10, Epoch:4, Support: 40
+7 7 7 7, Epoch:4, Support: 462
+6 6 6, Epoch:4, Support: 816

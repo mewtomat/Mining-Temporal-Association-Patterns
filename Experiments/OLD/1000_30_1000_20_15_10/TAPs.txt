@@ -1,0 +1,11 @@
+1 1 1 1 1 , Epoch:5, Support: 12
+3 3 3 , Epoch:1, Support: 950
+3 3 3 3 3 3 , Epoch:4, Support: 1060
+3 3 8 , Epoch:7, Support: 4
+3 8 3 , Epoch:7, Support: 4
+3 8 8 , Epoch:7, Support: 4
+4 4 4 4 , Epoch:0, Support: 1224
+5 5 5 , Epoch:3, Support: 78
+5 5 5 , Epoch:7, Support: 126
+8 8 8 8 8 8 8 8 , Epoch:2, Support: 14
+9 9 9 9 , Epoch:6, Support: 589

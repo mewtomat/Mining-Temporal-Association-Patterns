@@ -1,0 +1,10 @@
+To compile the program:
+g++ -std=c++11 -O3 seqMinining.cpp -o seqMiner
+
+------------
+
+To execute:
+./seqMiner <path of directory containing data file> <name of data file>
+
+example:
+ ./seqMiner ../Official\ Material/Novratis/  data_20_20_20_10_0.1.txt

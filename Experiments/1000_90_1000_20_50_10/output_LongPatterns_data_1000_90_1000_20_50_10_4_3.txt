@@ -1,0 +1,11 @@
+9 9 9 9, Epoch:4, Support: 617
+9 9 9, Epoch:7, Support: 254
+1 1 1 1 1 1 1, Epoch:8, Support: 505
+7 7 7 7 7 7 7 7 7, Epoch:8, Support: 2402
+8 8 8 8, Epoch:9, Support: 1496
+8 8 8 8 8 8, Epoch:9, Support: 306
+7 7 7 7 7, Epoch:9, Support: 4
+7 7 7 7 7 7 7, Epoch:9, Support: 2525
+1 1 1 1 1 1 1 7, Epoch:9, Support: 4
+9 9 9, Epoch:9, Support: 429
+7 7 7 7 7 7 7 7 7 7, Epoch:9, Support: 15

@@ -1,0 +1,53 @@
+1 1 1 1 , Epoch:2, Support: 650
+1 1 1 1 1 , Epoch:5, Support: 1820
+1 1 9 , Epoch:7, Support: 4
+1 6 6 6 , Epoch:6, Support: 10
+1 6 6 6 6 , Epoch:5, Support: 10
+5 5 5 5 3 3 , Epoch:4, Support: 20
+5 5 5 5 3 5 , Epoch:4, Support: 20
+5 5 5 5 5 1 1 1 1 1 , Epoch:0, Support: 5
+5 5 5 5 5 1 5 1 1 1 , Epoch:0, Support: 5
+5 5 5 5 5 3 , Epoch:4, Support: 20
+5 5 5 5 5 5 , Epoch:4, Support: 3298
+5 5 5 5 5 5 1 1 1 1 , Epoch:0, Support: 5
+5 5 5 5 5 5 5 1 1 1 , Epoch:0, Support: 5
+5 5 9 , Epoch:7, Support: 8
+5 6 6 6 , Epoch:6, Support: 33
+5 6 6 6 6 , Epoch:5, Support: 33
+5 9 9 9 9 9 9 , Epoch:3, Support: 17
+5 9 9 9 9 9 9 9 , Epoch:2, Support: 17
+6 1 1 1 , Epoch:6, Support: 10
+6 1 1 6 , Epoch:6, Support: 10
+6 1 6 1 , Epoch:6, Support: 10
+6 1 6 6 , Epoch:6, Support: 10
+6 3 3 , Epoch:7, Support: 41
+6 3 6 , Epoch:7, Support: 41
+6 6 1 1 , Epoch:6, Support: 10
+6 6 1 6 , Epoch:6, Support: 10
+6 6 3 , Epoch:7, Support: 41
+6 6 6 , Epoch:7, Support: 6503
+6 6 6 1 , Epoch:6, Support: 10
+6 6 6 6 , Epoch:6, Support: 3358
+9 5 5 5 9 9 9 , Epoch:3, Support: 17
+9 5 5 9 9 9 9 , Epoch:3, Support: 17
+9 5 9 9 9 9 9 , Epoch:3, Support: 17
+9 9 5 5 9 9 9 , Epoch:3, Support: 17
+9 9 5 9 9 9 9 , Epoch:3, Support: 17
+9 9 9 5 9 9 9 , Epoch:3, Support: 17
+9 9 9 6 6 6 6 , Epoch:3, Support: 36
+9 9 9 6 6 6 9 , Epoch:3, Support: 36
+9 9 9 6 6 9 6 , Epoch:3, Support: 36
+9 9 9 6 6 9 9 , Epoch:3, Support: 36
+9 9 9 6 9 6 6 , Epoch:3, Support: 36
+9 9 9 6 9 6 9 , Epoch:3, Support: 36
+9 9 9 6 9 9 6 , Epoch:3, Support: 36
+9 9 9 6 9 9 9 , Epoch:3, Support: 36
+9 9 9 9 6 6 6 , Epoch:3, Support: 73
+9 9 9 9 6 6 9 , Epoch:3, Support: 73
+9 9 9 9 6 9 6 , Epoch:3, Support: 73
+9 9 9 9 6 9 9 , Epoch:3, Support: 73
+9 9 9 9 9 6 6 , Epoch:3, Support: 73
+9 9 9 9 9 6 9 , Epoch:3, Support: 73
+9 9 9 9 9 9 6 , Epoch:3, Support: 73
+9 9 9 9 9 9 9 , Epoch:3, Support: 5829
+10 10 10 10 , Epoch:1, Support: 1062

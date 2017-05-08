@@ -1,0 +1,19 @@
+5 5 5 5 5, Epoch:6, Support: 4085
+1 1 1 1, Epoch:6, Support: 56
+4 4 5 4 5, Epoch:6, Support: 9
+4 4 5 5 5 4 4, Epoch:6, Support: 5
+4 4 5 5 4 5 4, Epoch:6, Support: 9
+5 4 5 5 4, Epoch:6, Support: 4
+4 4 4 4 4 4 4, Epoch:6, Support: 1517
+4 4 4 5 5, Epoch:6, Support: 5
+4 4 4 5 4 4 5, Epoch:6, Support: 4
+4 4 4 4 4 4 4 4 4, Epoch:9, Support: 233
+7 7 7 7 7, Epoch:9, Support: 333
+2 2 2 4, Epoch:9, Support: 10
+5 5 5 5 5 2 2 2, Epoch:9, Support: 7
+6 6 6, Epoch:9, Support: 241
+4 4 4 4 4 4 4 2 2 2, Epoch:9, Support: 9
+5 5 5 5 5 5 5 5, Epoch:9, Support: 6
+5 5 5 5 5 5, Epoch:9, Support: 362
+2 2 2 2, Epoch:9, Support: 3830
+5 5 5 5 2 2 2 2, Epoch:9, Support: 13

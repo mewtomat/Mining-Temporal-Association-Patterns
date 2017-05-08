@@ -1,0 +1,84 @@
+1 1 1 , Epoch:7, Support: 4013
+1 1 1 1 1 , Epoch:5, Support: 1295
+1 1 1 1 1 1 1 1 1 , Epoch:0, Support: 4
+1 1 1 1 1 1 1 1 1 , Epoch:1, Support: 4
+1 1 2 , Epoch:7, Support: 21
+1 1 9 9 9 9 , Epoch:4, Support: 7
+1 9 1 9 9 9 9 , Epoch:3, Support: 7
+1 9 9 9 9 9 , Epoch:4, Support: 7
+1 9 9 9 9 9 9 , Epoch:3, Support: 7
+1 10 1 10 10 10 10 , Epoch:3, Support: 15
+1 10 10 1 10 10 10 10 , Epoch:2, Support: 15
+1 10 10 10 10 10 10 , Epoch:3, Support: 15
+1 10 10 10 10 10 10 10 , Epoch:2, Support: 15
+4 4 4 4 , Epoch:6, Support: 1120
+9 1 9 9 9 9 , Epoch:4, Support: 9
+9 9 9 9 9 2 , Epoch:4, Support: 6
+9 9 9 9 9 9 , Epoch:4, Support: 2338
+9 9 9 9 9 9 9 9 , Epoch:2, Support: 1020
+10 1 1 10 10 10 10 , Epoch:3, Support: 15
+10 1 10 10 10 10 10 , Epoch:3, Support: 15
+10 10 1 1 1 1 1 , Epoch:3, Support: 14
+10 10 1 1 1 1 10 , Epoch:3, Support: 14
+10 10 1 1 1 10 1 , Epoch:3, Support: 14
+10 10 1 1 1 10 10 , Epoch:3, Support: 14
+10 10 1 1 10 1 1 , Epoch:3, Support: 14
+10 10 1 1 10 1 10 , Epoch:3, Support: 14
+10 10 1 1 10 10 1 , Epoch:3, Support: 14
+10 10 1 1 10 10 10 , Epoch:3, Support: 14
+10 10 1 10 1 1 1 , Epoch:3, Support: 14
+10 10 1 10 1 1 10 , Epoch:3, Support: 14
+10 10 1 10 1 10 1 , Epoch:3, Support: 14
+10 10 1 10 1 10 10 , Epoch:3, Support: 14
+10 10 1 10 10 1 1 , Epoch:3, Support: 14
+10 10 1 10 10 1 10 , Epoch:3, Support: 14
+10 10 1 10 10 10 10 , Epoch:3, Support: 29
+10 10 10 1 1 1 1 , Epoch:3, Support: 14
+10 10 10 1 1 1 10 , Epoch:3, Support: 14
+10 10 10 1 1 10 1 , Epoch:3, Support: 14
+10 10 10 1 1 10 10 , Epoch:3, Support: 14
+10 10 10 1 10 1 1 , Epoch:3, Support: 14
+10 10 10 1 10 1 10 , Epoch:3, Support: 14
+10 10 10 1 10 10 1 , Epoch:3, Support: 14
+10 10 10 1 10 10 10 , Epoch:3, Support: 14
+10 10 10 10 1 1 1 , Epoch:3, Support: 14
+10 10 10 10 1 1 1 1 1 , Epoch:1, Support: 8
+10 10 10 10 1 1 1 1 10 , Epoch:1, Support: 8
+10 10 10 10 1 1 1 10 1 , Epoch:1, Support: 8
+10 10 10 10 1 1 1 10 10 , Epoch:1, Support: 8
+10 10 10 10 1 1 10 , Epoch:3, Support: 14
+10 10 10 10 1 1 10 1 1 , Epoch:1, Support: 8
+10 10 10 10 1 1 10 1 10 , Epoch:1, Support: 8
+10 10 10 10 1 1 10 10 1 , Epoch:1, Support: 8
+10 10 10 10 1 1 10 10 10 , Epoch:1, Support: 8
+10 10 10 10 1 10 1 , Epoch:3, Support: 14
+10 10 10 10 1 10 1 1 1 , Epoch:1, Support: 8
+10 10 10 10 1 10 1 1 10 , Epoch:1, Support: 8
+10 10 10 10 1 10 1 10 1 , Epoch:1, Support: 8
+10 10 10 10 1 10 1 10 10 , Epoch:1, Support: 8
+10 10 10 10 1 10 10 , Epoch:3, Support: 14
+10 10 10 10 1 10 10 1 1 , Epoch:1, Support: 8
+10 10 10 10 1 10 10 1 10 , Epoch:1, Support: 8
+10 10 10 10 1 10 10 10 1 , Epoch:1, Support: 8
+10 10 10 10 1 10 10 10 10 , Epoch:1, Support: 8
+10 10 10 10 10 1 1 , Epoch:3, Support: 14
+10 10 10 10 10 1 1 1 1 , Epoch:1, Support: 8
+10 10 10 10 10 1 1 1 10 , Epoch:1, Support: 8
+10 10 10 10 10 1 1 10 1 , Epoch:1, Support: 8
+10 10 10 10 10 1 1 10 10 , Epoch:1, Support: 8
+10 10 10 10 10 1 10 , Epoch:3, Support: 14
+10 10 10 10 10 1 10 1 1 , Epoch:1, Support: 8
+10 10 10 10 10 1 10 1 10 , Epoch:1, Support: 8
+10 10 10 10 10 1 10 10 1 , Epoch:1, Support: 8
+10 10 10 10 10 1 10 10 10 , Epoch:1, Support: 8
+10 10 10 10 10 10 1 , Epoch:3, Support: 14
+10 10 10 10 10 10 1 1 1 , Epoch:1, Support: 8
+10 10 10 10 10 10 1 1 10 , Epoch:1, Support: 8
+10 10 10 10 10 10 1 10 1 , Epoch:1, Support: 8
+10 10 10 10 10 10 1 10 10 , Epoch:1, Support: 8
+10 10 10 10 10 10 10 , Epoch:3, Support: 4475
+10 10 10 10 10 10 10 1 1 , Epoch:1, Support: 8
+10 10 10 10 10 10 10 1 10 , Epoch:1, Support: 8
+10 10 10 10 10 10 10 10 1 , Epoch:1, Support: 8
+10 10 10 10 10 10 10 10 2 , Epoch:1, Support: 44
+10 10 10 10 10 10 10 10 10 , Epoch:1, Support: 2970

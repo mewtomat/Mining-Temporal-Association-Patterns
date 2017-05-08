@@ -1,0 +1,9 @@
+6 6 6, Epoch:2, Support: 1087
+1 1 1 1, Epoch:5, Support: 470
+10 10 10, Epoch:6, Support: 984
+6 6 6 6, Epoch:6, Support: 28
+6 6 6 6 6 6, Epoch:6, Support: 26
+10 10 10 10, Epoch:8, Support: 54
+3 3 3 3, Epoch:9, Support: 186
+7 7 7, Epoch:9, Support: 640
+7 7 4, Epoch:9, Support: 4
